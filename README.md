@@ -1,6 +1,6 @@
 # Doctor-Chat-Application
 
-###Patient who are having normal disease like fever, cold are not getting proper treatment. So we developed an application that helps patients to communicate with doctors and having personal rooms where they can share their problems.
+### Patient who are having normal disease like fever, cold are not getting proper treatment. So we developed an application that helps patients to communicate with doctors and having personal rooms where they can share their problems.
 
 
 It creates a real time chatting application in which patients and doctor will be running client side application and server will give them fumctionality to connect using socket.io
